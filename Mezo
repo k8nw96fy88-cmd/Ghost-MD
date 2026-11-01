@@ -1,0 +1,16 @@
+{
+  "name": "ghost-md",
+  "version": "1.0.0",
+  "description": "Advanced WhatsApp Bot",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "qrcode-terminal": "latest",
+    "dotenv": "latest"
+  }
+}
